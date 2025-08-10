@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus-releases</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.120.35:8081/repository/facebook-releases/</url>
+	      <url>http://13.232.120.35:8081/repository/facebook-snapshots/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus-snapshots</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.120.35:8081/repository/facebook-snapshots/</url>
+	      <url>http://13.232.120.35:8081/repository/facebook-releases/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
