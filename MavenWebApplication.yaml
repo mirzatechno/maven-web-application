@@ -9,7 +9,7 @@ metadata:
   name: webpage-deployment
   namespace: production
 spec:
-  replicas: 2
+  replicas: 1
   revisionHistoryLimit: 5
   selector:
     matchLabels:
